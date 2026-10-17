@@ -1,0 +1,22 @@
+### Hi, I'm Alvaro 👋
+
+Senior NatCat engineer (MSc Hydraulic Engineering, TU Delft) with 6+ years in flood and climate risk for
+governments, development partners and the private sector. I build decision tools for **climate and disaster risk**: hazard models, forecasts and
+Earth-observation analytics turned into answers to *where to build, how to finance risk, when to act,
+where to respond and what to rebuild first*.
+
+🌐 **Portfolio:** [alvaroprida.github.io](https://alvaroprida.github.io)
+
+#### Across the disaster risk cycle
+
+| Phase | Project | Status |
+|---|---|---|
+| 1. Prevention | Flood hazard & exposure for spatial planning | 🔜 |
+| 2. Retention & Transfer | Parametric index design & risk layering | 🔜 |
+| 3. Preparedness | [Wami–Ruvu ensemble flood forecast](https://github.com/alvaroprida/wami-ruvu-flood-forecast) · [live](https://alvaroprida.github.io/wami-ruvu-flood-forecast/) | ✅ |
+| 4. Response | Rapid post-event flood impact mapping | 🔜 |
+| 5. Recovery | Recovery investment prioritisation | 🔜 |
+
+**Tools:** Wflow · SFINCS · HydroMT · ECMWF ENS / GloFAS · Sentinel-1/2 · Python / xarray · Julia · React
+
+[LinkedIn](https://www.linkedin.com/in/alvaroprida/)
