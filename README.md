@@ -12,11 +12,11 @@ where to respond and what to rebuild first*.
 | Phase | Project | Status |
 |---|---|---|
 | 1. Prevention | Flood hazard & exposure for spatial planning | 🔜 |
-| 2. Retention & Transfer | Parametric index design & risk layering | 🔜 |
+| 2. Retention & Transfer | [Parametric cyclone cover · cat-in-a-circle](https://github.com/alvaroprida/parametric-tc-cat-in-circle) · [live](https://alvaroprida.github.io/parametric-tc-cat-in-circle/) | ✅ |
 | 3. Preparedness | [Wami–Ruvu ensemble flood forecast](https://github.com/alvaroprida/wami-ruvu-flood-forecast) · [live](https://alvaroprida.github.io/wami-ruvu-flood-forecast/) | ✅ |
 | 4. Response | Rapid post-event flood impact mapping | 🔜 |
 | 5. Recovery | Recovery investment prioritisation | 🔜 |
 
-**Tools:** Wflow · SFINCS · HydroMT · ECMWF ENS / GloFAS · Sentinel-1/2 · Python / xarray · Julia · React
+**Tools:** CLIMADA · Wflow · SFINCS · HydroMT · ECMWF ENS / GloFAS · Sentinel-1/2 · Python / xarray · Julia · React
 
 [LinkedIn](https://www.linkedin.com/in/alvaroprida/)
