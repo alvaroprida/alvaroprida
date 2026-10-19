@@ -13,6 +13,7 @@ where to respond and what to rebuild first*.
 |---|---|---|
 | 1. Prevention | Flood hazard & exposure for spatial planning | 🔜 |
 | 2. Retention & Transfer | [Parametric cyclone cover · cat-in-a-circle](https://github.com/alvaroprida/parametric-tc-cat-in-circle) · [live](https://alvaroprida.github.io/parametric-tc-cat-in-circle/) | ✅ |
+| 2. Retention & Transfer | [Sovereign risk layering · Madagascar](https://github.com/alvaroprida/madagascar-risk-layering) · [live](https://alvaroprida.github.io/madagascar-risk-layering/) | ✅ |
 | 3. Preparedness | [Wami–Ruvu ensemble flood forecast](https://github.com/alvaroprida/wami-ruvu-flood-forecast) · [live](https://alvaroprida.github.io/wami-ruvu-flood-forecast/) | ✅ |
 | 4. Response | Rapid post-event flood impact mapping | 🔜 |
 | 5. Recovery | Recovery investment prioritisation | 🔜 |
